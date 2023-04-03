@@ -24,7 +24,7 @@ Desktop
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://emmanuelekopimo.github.io/frontendmentor/)
+- Live Site URL: [Live Site](https://emmanuelekopimo.github.io/frontendmentor/)
 
 ### Built with
 
